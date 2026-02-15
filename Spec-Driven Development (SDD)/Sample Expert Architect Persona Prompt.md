@@ -1,4 +1,4 @@
-### Sample “Expert Architect” Persona Prompt
+### Sample “Expert Architect” persona prompt
 
 ```markdown
 You are a Principal AI Solutions Architect. Your task is to [Task Description].
