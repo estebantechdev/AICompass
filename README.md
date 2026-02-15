@@ -32,7 +32,7 @@ Tell me the {color} of the ball.
 
 Very explicit placeholders.
 
-```css
+```sql
 Tell me the <<color>> of the ball.
 ```
 
