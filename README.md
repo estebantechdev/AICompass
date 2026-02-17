@@ -74,3 +74,11 @@ This keeps:
 * Examples visible
 
 * Copy-paste friendly
+
+## Contributions
+
+Contributions and feedback are welcome! If you have suggestions for improvements or additional tools, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [CC0 1.0 Universal](LICENSE) - see the [LICENSE](LICENSE) file for details.
