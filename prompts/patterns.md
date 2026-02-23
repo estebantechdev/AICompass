@@ -1,7 +1,3 @@
-# AICompass
-
-A curated and structured guide to the AI ecosystem, organizing tools, platforms, patterns, and resources for informed AI system design.
-
 ## Patterns
 
 The Generative AI will understand bracket patterns like [color] or [shape] as placeholders, and they will not affect the response as long as you replace them before sending the prompt.
