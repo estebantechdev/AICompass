@@ -40,6 +40,7 @@ A curated and structured guide to the AI ecosystem, organizing tools, platforms,
     │   ├── figm
     ├── dev
     │   ├── agent-teams-lite
+    │   ├── code-rabbit
     │   ├── engram
     │   ├── +google-tools
     │   ├── jira
